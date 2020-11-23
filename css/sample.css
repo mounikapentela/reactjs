@@ -1,0 +1,34 @@
+h2{
+	background-color: green;
+	text-align: center;
+}
+#mounika{
+	color: red;
+}
+.mouni{
+	color: blue;
+}
+*{
+	font-style: 25%;
+	text-align: center;
+}
+p,h5,h4,table{
+	background-color: aqua;
+}
+
+.parent{
+background-color: bisque;
+margin: 3%;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-around;
+}
+.child{
+	background-color: aqua;
+	margin: 2%;
+	 padding: 2%
+}
+.or{
+	display: flex;
+	flex-direction: row;
+}
